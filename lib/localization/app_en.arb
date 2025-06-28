@@ -1,0 +1,251 @@
+{
+    "@@author": "Hemanth Savarala",
+    "@@context": "This file contains the English translations for the chat application.",
+    "@@locale": "en",
+    "@@last_modified": "2025-06-28T12:00:00",
+    "appTitle": "Chat App",
+    "@appTitle": {
+        "description": "The title of the chat application.",
+        "type": "text"
+    },
+    "home": "Home",
+    "@home": {
+        "description": "The title displayed on the home page of the application.",
+        "type": "text"
+    },
+    "chats": "Chats",
+    "@chats": {
+        "description": "The title displayed on the chat page.",
+        "type": "text"
+    },
+    "map": "Map",
+    "@map": {
+        "description": "The title displayed on the map page.",
+        "type": "text"
+    },
+    "profile": "Profile",
+    "@profile": {
+        "description": "The title displayed on the profile page.",
+        "type": "text"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "The title displayed on the settings page.",
+        "type": "text"
+    },
+    "send": "Send",
+    "@send": {
+        "description": "Button text to send a message in the chat.",
+        "type": "text"
+    },
+    "signOut": "Sign Out",
+    "@signOut": {
+        "description": "Button text to sign out of the application.",
+        "type": "text"
+    },
+    "deleteAccount": "Delete Account",
+    "@deleteAccount": {
+        "description": "Button text to delete user account.",
+        "type": "text"
+    },
+    "editProfile": "Edit Profile",
+    "@editProfile": {
+        "description": "Button text to edit user profile.",
+        "type": "text"
+    },
+    "updateProfile": "Update Profile",
+    "@updateProfile": {
+        "description": "Button text to update user profile.",
+        "type": "text"
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": "Button text to change password.",
+        "type": "text"
+    },
+    "confirmDelete": "Confirm Delete",
+    "@confirmDelete": {
+        "description": "Title for delete confirmation dialog.",
+        "type": "text"
+    },
+    "deleteAccountWarning": "Are you sure you want to delete your account? This action cannot be undone and will permanently delete all your data.",
+    "@deleteAccountWarning": {
+        "description": "Warning message for account deletion.",
+        "type": "text"
+    },
+    "confirmPasswordPrompt": "Please enter your password to confirm:",
+    "@confirmPasswordPrompt": {
+        "description": "Prompt asking user to enter password for confirmation.",
+        "type": "text"
+    },
+    "passwordRequired": "Password is required",
+    "@passwordRequired": {
+        "description": "Error message when password field is empty.",
+        "type": "text"
+    },
+    "incorrectPassword": "Incorrect password. Please try again.",
+    "@incorrectPassword": {
+        "description": "Error message for incorrect password.",
+        "type": "text"
+    },
+    "recentAuthRequired": "Recent authentication required. Please log in again.",
+    "@recentAuthRequired": {
+        "description": "Error message when recent authentication is required.",
+        "type": "text"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Button text to cancel an action.",
+        "type": "text"
+    },
+    "delete": "Delete",
+    "@delete": {
+        "description": "Button text to confirm deletion.",
+        "type": "text"
+    },
+    "name": "Name",
+    "@name": {
+        "description": "Label for name field.",
+        "type": "text"
+    },
+    "currentPassword": "Current Password",
+    "@currentPassword": {
+        "description": "Label for current password field.",
+        "type": "text"
+    },
+    "newPassword": "New Password",
+    "@newPassword": {
+        "description": "Label for new password field.",
+        "type": "text"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+        "description": "Label for confirm password field.",
+        "type": "text"
+    },
+    "passwordsDoNotMatch": "Passwords do not match",
+    "@passwordsDoNotMatch": {
+        "description": "Error message when passwords don't match.",
+        "type": "text"
+    },
+    "profileUpdated": "Profile updated successfully",
+    "@profileUpdated": {
+        "description": "Success message when profile is updated.",
+        "type": "text"
+    },
+    "passwordUpdated": "Password updated successfully",
+    "@passwordUpdated": {
+        "description": "Success message when password is updated.",
+        "type": "text"
+    },
+    "accountDeleted": "Account deleted successfully",
+    "@accountDeleted": {
+        "description": "Success message when account is deleted.",
+        "type": "text"
+    },
+    "loading": "Loading...",
+    "@loading": {
+        "description": "Text displayed when the application is loading data.",
+        "type": "text"
+    },
+    "errorOccurred": "An error occurred. Please try again.",
+    "@errorOccurred": {
+        "description": "Message displayed when an error occurs in the application.",
+        "type": "text"
+    },
+    "welcomeBack": "Welcome back!",
+    "@welcomeBack": {
+        "description": "Message displayed to the user when they return to the application.",
+        "type": "text"
+    },
+    "signInToContinue": "Sign in to continue",
+    "@signInToContinue": {
+        "description": "Description text displayed on the login page.",
+        "type": "text"
+    },
+    "email": "Email",
+    "@email": {
+        "description": "Label for the email input field.",
+        "type": "text"
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Label for the password input field.",
+        "type": "text"
+    },
+    "loginButton": "Login",
+    "@loginButton": {
+        "description": "Button text to log in to the application.",
+        "type": "text"
+    },
+    "dontHaveAccount": "Don't have an account?",
+    "@dontHaveAccount": {
+        "description": "Text displayed to users who do not have an account, prompting them to sign up.",
+        "type": "text"
+    },
+    "signUp": "Sign Up",
+    "@signUp": {
+        "description": "Button text to sign up for a new account.",
+        "type": "text"
+    },
+    "createAccount": "Create an account",
+    "@createAccount": {
+        "description": "Text displayed on the sign-up page to prompt users to create a new account.",
+        "type": "text"
+    },
+    "fullName": "Full Name",
+    "@fullName": {
+        "description": "Label for the full name input field on the sign-up page.",
+        "type": "text"
+    },
+    "mobileNumber": "Mobile Number",
+    "@mobileNumber": {
+        "description": "Label for the mobile number input field on the sign-up page.",
+        "type": "text"
+    },
+    "alreadyHaveAccount": "Already have an account?",
+    "@alreadyHaveAccount": {
+        "description": "Text displayed to users who already have an account, prompting them to log in.",
+        "type": "text"
+    },
+    "signIn": "Sign in",
+    "@signIn": {
+        "description": "Button text to sign in to the application.",
+        "type": "text"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Button text to log in to the application.",
+        "type": "text"
+    },
+    "emailRequired": "Email is required",
+    "@emailRequired": {
+        "description": "Error message displayed when the email field is left empty.",
+        "type": "text"
+    },
+    "invalidEmail": "Invalid email format",
+    "@invalidEmail": {
+        "description": "Error message displayed when the email format is invalid.",
+        "type": "text"
+    },
+    "passwordMinLength": "Password must be at least 6 characters",
+    "@passwordMinLength": {
+        "description": "Error message displayed when the password is shorter than 6 characters.",
+        "type": "text"
+    },
+    "fullNameRequired": "Full name is required",
+    "@fullNameRequired": {
+        "description": "Error message displayed when the full name field is left empty.",
+        "type": "text"
+    },
+    "selectCountry": "Select Country",
+    "@selectCountry": {
+        "description": "Label for the country selection dropdown on the sign-up page.",
+        "type": "text"
+    },
+    "createAccountDescription": "Create an account to start chatting with your friends and family.",
+    "@createAccountDescription": {
+        "description": "Description text displayed on the sign-up page to encourage users to create an account.",
+        "type": "text"
+    }
+}
