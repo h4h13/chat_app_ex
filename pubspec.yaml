@@ -42,8 +42,6 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_screenutil: ^5.9.3
   googleapis_auth: ^2.0.0
-  flutter_web_plugins:
-    sdk: flutter
 
 dev_dependencies:
   flutter_test:
